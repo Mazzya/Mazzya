@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I am Mazzya, a young programmer who loves what he does. If you want you can continue reading below 👇
+### About me 🙍‍♂️:
+- I am a young Python developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I am currently experimenting with Flask
 <!--
 **Mazzya/Mazzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
