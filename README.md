@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Image](https://media-exp1.licdn.com/dms/image/C4D03AQEZGBZmPdcGHQ/profile-displayphoto-shrink_200_200/0?e=1606348800&v=beta&t=kYLXIRasDb9ig6S_xOdrV-jY0Ii2YGQaUuoV-j23YwY)
+![](https://media.giphy.com/media/l3vRdhgjZsb70ZVO8/giphy.gif)
 
 
 ### About me 🙍‍♂️:
