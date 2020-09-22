@@ -1,6 +1,9 @@
 ### Hi there 👋
+![Profile Image](https://media-exp1.licdn.com/dms/image/C4D03AQEZGBZmPdcGHQ/profile-displayphoto-shrink_200_200/0?e=1606348800&v=beta&t=kYLXIRasDb9ig6S_xOdrV-jY0Ii2YGQaUuoV-j23YwY)
+
+
 ### About me 🙍‍♂️:
-- I am a young Python developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I am currently experimenting with Flask
+I am a young Python developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I am currently experimenting with Flask
 <!--
 **Mazzya/Mazzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
