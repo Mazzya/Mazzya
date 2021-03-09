@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+![](https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif)
 
 
 ### About me 🙍‍♂️:
