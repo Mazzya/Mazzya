@@ -3,7 +3,7 @@
 
 
 ### About me 🙍‍♂️:
-I am a young Python developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I also program in Java. I am currently experimenting with Flask.
+I am a young Python and Java developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I also program in Java. I am currently experimenting with Flask.
 
 > If you can imagine it, you can program it.
 <!--
