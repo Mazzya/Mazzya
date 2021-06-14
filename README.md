@@ -5,8 +5,6 @@
 ### About me 🙍‍♂️:
 I am a young Python and Java developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I am a cybersecurity fanatic and that is why I spend a lot of time and effort studying it 😄
 
-![Profile views](https://gpvc.arturio.dev/Mazzya)
-
 > If you can imagine it, you can program it.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mazzya&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
