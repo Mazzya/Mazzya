@@ -9,7 +9,7 @@ I am a Python and Java developer who loves what he does. Every day I learn somet
 > If you can imagine it, you can program it.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/mazzya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazzya&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzya&layout=compact&langs_count=7&theme=react"/>
 </div>
