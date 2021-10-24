@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/24cxQF8KsFLKMzsZgp/giphy.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/yKKMaXHvwXoATvXUls/giphy-downsized-large.gif" alt="animated" />
 </p>
 
 ### About me 🙍‍♂️:
