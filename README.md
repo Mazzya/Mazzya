@@ -14,7 +14,6 @@ I am a Python and Java developer who loves what he does. Every day I learn somet
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzya&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div align="center">
-  <br>
   <a href="https://discord.gg/6mUJ7FuZw3"></a>
   <img src="https://discordapp.com/api/guilds/906528187935248414/widget.png?style=banner3" alt="Discord Banner 3"/>
 </div>  
