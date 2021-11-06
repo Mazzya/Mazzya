@@ -15,6 +15,7 @@ I am a Python and Java developer who loves what he does. Every day I learn somet
 </div>
 <div align="center">
   <br>
+  <a href="https://discord.gg/6mUJ7FuZw3"></a>
   <img src="https://discordapp.com/api/guilds/906528187935248414/widget.png?style=banner3" alt="Discord Banner 3"/>
 </div>  
 <div style="display: inline_block" align="center"><br>
