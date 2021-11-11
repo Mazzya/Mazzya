@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p align="center">
-  <!--<img src="https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif" alt="animated" />-->
   <img src="https://github.com/Mazzya/Mazzya/blob/master/assets/banner.png" alt="banner" />
 </p>
 
