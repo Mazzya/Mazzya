@@ -4,7 +4,7 @@
 </p>
 
 ### About me 🙍‍♂️:
-I am a Python and Java developer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I am a cybersecurity fanatic and that is why I spend a lot of time and effort studying it 😄
+I am a software engineer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I try to help in any way I can 😄
 
 > If you can imagine it, you can program it.
 
