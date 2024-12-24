@@ -15,8 +15,6 @@ I am a software engineer who loves what he does. Every day I learn something new
 </div>
 <div align="center">
   <br>
-  <a href="https://discord.gg/6mUJ7FuZw3">
-    <img src="https://discordapp.com/api/guilds/906528187935248414/widget.png?style=banner2" alt="Discord Banner 3"/>
 </div>  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
