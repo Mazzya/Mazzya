@@ -1,8 +1,4 @@
-### Hi there 👋
-<p align="center">
-  <img src="https://github.com/Mazzya/Mazzya/blob/master/assets/banner.png" alt="banner" />
-</p>
-
+## Hi there 👋
 ### About me 🙍‍♂️:
 I am a software engineer who loves what he does. Every day I learn something new that allows me to create new things that I share on github. I try to help in any way I can 😄
 
